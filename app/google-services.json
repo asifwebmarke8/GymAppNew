@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "174537196785",
+    "firebase_url": "https://gymapp-dee5e.firebaseio.com",
+    "project_id": "gymapp-dee5e",
+    "storage_bucket": "gymapp-dee5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174537196785:android:99dc9ab172b6fdd6",
+        "android_client_info": {
+          "package_name": "com.fazal.dreamsolutions.gymappnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174537196785-o0l12lpcp58j7opss25enc2205a2sneh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5S1gXtdUrZqcvO3z8tjEQYarEsgRCgwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
